@@ -1,5 +1,5 @@
 {
-  "name": "axiles89/yii2-coordinator",
+  "name": "mike/yii2-coordinator",
   "description": "Coordinator for yii2 sharding",
   "keywords": [
     "php",
@@ -12,8 +12,8 @@
   "license": "Public Domain",
   "authors": [
     {
-      "name": "Kyshnerev",
-      "email": "DIMKYSH@MAIL.RU"
+      "name": "mike",
+      "email": "hhy5861@gmail.com"
     }
   ],
   "require": {
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "axiles89\\coordinator\\": "lib/"
+      "mike\\coordinator\\": "lib/"
     }
   }
 }

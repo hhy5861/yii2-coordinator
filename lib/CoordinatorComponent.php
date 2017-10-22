@@ -1,22 +1,10 @@
 <?php
-/**
- * CoordinatorComponent.php
- *
- * @package axiles89\coordinator
- * @date: 23.03.2016 19:35
- * @author: Kyshnerev Dmitriy <dimkysh@mail.ru>
- */
 
-namespace axiles89\coordinator;
-
+namespace mike\coordinator;
 
 use yii\base\Component;
 use yii\base\InvalidConfigException;
 
-/**
- * Class CoordinatorComponent
- * @package axiles89\coordinator
- */
 class CoordinatorComponent extends Component implements ICoordinatorComponent
 {
     /**

@@ -1,19 +1,7 @@
 <?php
-/**
- * ICoordinatorComponent.php
- *
- * @package axiles89\coordinator
- * @date: 25.03.2016 20:11
- * @author: Kyshnerev Dmitriy <dimkysh@mail.ru>
- */
 
-namespace axiles89\coordinator;
+namespace mike\coordinator;
 
-
-/**
- * Interface ICoordinatorComponent
- * @package axiles89\coordinator
- */
 interface ICoordinatorComponent
 {
     /**
